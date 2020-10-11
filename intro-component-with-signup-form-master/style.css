@@ -59,6 +59,10 @@ html{
 .right-col{
 	flex : 1;
 }
+.right-col label
+{
+	display : none;
+}
 .right-col .top-box{
 	background-color: hsl(248, 32%, 49%);
 	color: white;
